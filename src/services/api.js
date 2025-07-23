@@ -1,5 +1,5 @@
 // API base URL - adjust this to point to your backend PHP server
-const API_BASE_URL = 'http://vaultdrop.great-site.net/projectvault/api';
+const API_BASE_URL = 'https://vaultdrop.webhostdevs.com/api';
 
 // Check if a key exists
 export const checkKey = async (accessKey) => {
